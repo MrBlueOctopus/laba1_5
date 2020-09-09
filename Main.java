@@ -11,6 +11,6 @@ public class Main {
 	for (int i=1; i<=a; ++i){
 	    fac*=i;
     }
-	System.out.println(fac);
+	System.out.println("Факториал числа "+a+" = "+fac);
     }
 }
